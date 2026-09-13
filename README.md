@@ -1,4 +1,4 @@
-<!-- README.md v0.1.0 -->
+<!-- README.md v1.0.124 -->
 # Puttit
 
 Puttit è un client SSH interattivo centralizzato per la LAN.
@@ -122,10 +122,3 @@ avvia, arresta o configura il tunnel e non conserva credenziali VPN.
 La verifica conferma la raggiungibilità TCP, non il percorso seguito dai
 pacchetti: routing e firewall del sistema devono impedire che una destinazione
 riservata alla VPN sia raggiunta da un'altra interfaccia.
-
-## Versione dei file
-
-Come in MMS2, ogni file sorgente riporta nome e versione nella prima riga utile,
-per esempio `// ssh.mjs v0.1.0`. La versione è indipendente per ciascun file e
-va incrementata soltanto quando quel file cambia. I file JSON usano il campo
-standard `version`; `LICENSE` resta invariato per non alterare il testo legale.

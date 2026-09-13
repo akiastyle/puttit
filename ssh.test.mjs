@@ -1,4 +1,4 @@
-// ssh.test.mjs v0.1.0
+// ssh.test.mjs v1.1.45
 import assert from "node:assert/strict";
 import { generateKeyPairSync } from "node:crypto";
 import { once } from "node:events";

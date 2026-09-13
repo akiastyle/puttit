@@ -1,4 +1,4 @@
-// admin.mjs v0.1.0
+// admin.mjs v1.17.149
 import { newId, passwordRecord, totpSecret } from "./auth.mjs";
 import { normalizeFingerprint } from "./ssh.mjs";
 

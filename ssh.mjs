@@ -1,4 +1,4 @@
-// ssh.mjs v0.1.0
+// ssh.mjs v1.14.144
 import { EventEmitter } from "node:events";
 import { timingSafeEqual } from "node:crypto";
 import { createConnection } from "node:net";

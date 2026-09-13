@@ -1,4 +1,4 @@
-// auth.mjs v0.1.0
+// auth.mjs v1.8.53
 import { createHash, createHmac, randomBytes, scrypt as scryptCallback, timingSafeEqual } from "node:crypto";
 import { promisify } from "node:util";
 

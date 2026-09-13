@@ -1,4 +1,4 @@
-// app.test.mjs v0.1.0
+// app.test.mjs v1.1.78
 import assert from "node:assert/strict";
 import { randomBytes } from "node:crypto";
 import { mkdtemp, readFile, rm } from "node:fs/promises";

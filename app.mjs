@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// app.mjs v0.1.0
+// app.mjs v1.11.252
 import { createServer } from "node:http";
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";

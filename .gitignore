@@ -1,4 +1,4 @@
-# .gitignore v0.1.0
+# .gitignore v1.0.11
 node_modules/
 .env
 .env.*

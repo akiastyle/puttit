@@ -1,4 +1,4 @@
-// state.mjs v0.1.0
+// state.mjs v1.5.43
 import { randomBytes } from "node:crypto";
 import { chmod, mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";

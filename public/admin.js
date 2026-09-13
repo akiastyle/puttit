@@ -1,4 +1,4 @@
-// admin.js v0.1.0
+// admin.js v1.33.243
 const root = document.querySelector("#main");
 const state = { admin: null, users: [], servers: [], identities: [], accesses: [], page: "accesses" };
 let monitorTimer;

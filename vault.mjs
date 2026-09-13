@@ -1,4 +1,4 @@
-// vault.mjs v0.1.0
+// vault.mjs v1.10.112
 import { createCipheriv, createDecipheriv, randomBytes } from "node:crypto";
 import { existsSync } from "node:fs";
 import { chmod, mkdir, readFile, stat, writeFile } from "node:fs/promises";
